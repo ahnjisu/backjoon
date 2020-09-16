@@ -9,4 +9,6 @@
 3. [고양이 출력](https://github.com/ahnjisu/backjoon/blob/master/java/10171.java)
 4. [강아지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/10172.java)
 5. [A+B](https://github.com/ahnjisu/backjoon/blob/master/java/1000.java)
+6. [A-B](https://github.com/ahnjisu/backjoon/blob/master/java/1001.java)
+7. [AxB](https://github.com/ahnjisu/backjoon/blob/master/java/10998.java)
 </details>
