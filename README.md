@@ -6,4 +6,5 @@
 
 1. [Hello World](https://github.com/ahnjisu/backjoon/blob/master/java/2557.java)
 2. [강한친구 대한육군](https://github.com/ahnjisu/backjoon/blob/master/java/10718.java)
+3. [고양이 출력](https://github.com/ahnjisu/backjoon/blob/master/java/10171.java)
 </details>
