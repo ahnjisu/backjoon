@@ -7,7 +7,7 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 		int A = scanner.nextInt();
 		int B = scanner.nextInt();
-		System.out.println((double)A/B);
+		System.out.println((double)A/B); //형변환
 
 	}
 
