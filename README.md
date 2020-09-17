@@ -12,4 +12,5 @@
 6. [A-B](https://github.com/ahnjisu/backjoon/blob/master/java/1001.java)
 7. [AxB](https://github.com/ahnjisu/backjoon/blob/master/java/10998.java)
 8. [A/B](https://github.com/ahnjisu/backjoon/blob/master/java/1008.java)
+9. [사칙연산](https://github.com/ahnjisu/backjoon/blob/master/java/10869.java)
 </details>
