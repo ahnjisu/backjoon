@@ -26,4 +26,5 @@
 15. [사분면](https://github.com/ahnjisu/backjoon/blob/master/java/14681.java)
 16. [알람](https://github.com/ahnjisu/backjoon/blob/master/java/2884.java)
 17. [구구단](https://github.com/ahnjisu/backjoon/blob/master/java/2739.java)
+18. [for문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10950.java)
 </details>
