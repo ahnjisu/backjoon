@@ -2,7 +2,7 @@
 
 
 <details markdown="1">
-<summary> 1번 ~ 10번 </summary>
+<summary> 입출력과 사칙연산 </summary>
 
 1. [Hello World](https://github.com/ahnjisu/backjoon/blob/master/java/2557.java)
 2. [강한친구 대한육군](https://github.com/ahnjisu/backjoon/blob/master/java/10718.java)
@@ -14,19 +14,29 @@
 8. [A/B](https://github.com/ahnjisu/backjoon/blob/master/java/1008.java)
 9. [사칙연산](https://github.com/ahnjisu/backjoon/blob/master/java/10869.java)
 10. [나머지](https://github.com/ahnjisu/backjoon/blob/master/java/10430.java)
+11. [곱셈](https://github.com/ahnjisu/backjoon/blob/master/java/2588.java)
+
 </details>
 
 <details markdown="1">
-<summary> 11번 ~ 20번 </summary>
+<summary> if문 </summary>
 
-11. [곱셈](https://github.com/ahnjisu/backjoon/blob/master/java/2588.java)
 12. [두 수 비교하기](https://github.com/ahnjisu/backjoon/blob/master/java/1330.java)
 13. [시험 성적](https://github.com/ahnjisu/backjoon/blob/master/java/9498.java)
 14. [윤년](https://github.com/ahnjisu/backjoon/blob/master/java/2753.java)
 15. [사분면](https://github.com/ahnjisu/backjoon/blob/master/java/14681.java)
 16. [알람](https://github.com/ahnjisu/backjoon/blob/master/java/2884.java)
+
+</details>
+
+<details markdown="1">
+<summary> for문 </summary>
 17. [구구단](https://github.com/ahnjisu/backjoon/blob/master/java/2739.java)
 18. [for문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10950.java)
 19. [for문 합](https://github.com/ahnjisu/backjoon/blob/master/java/8393.java)
-20. [1부터 N까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2741.java)
+21. [1부터 N까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2741.java)
+22. [N부터 1까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2742.java)
+23. [A+B - 7](https://github.com/ahnjisu/backjoon/blob/master/java/11021.java)
+24. [A+B - 8](https://github.com/ahnjisu/backjoon/blob/master/java/11022.java)
+
 </details>
