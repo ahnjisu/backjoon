@@ -1,6 +1,8 @@
 # backjoon
 
-#### 단계별로 풀어보기
+### 단계별로 풀어보기
+
+***
 
 <details markdown="1">
 <summary> 입출력과 사칙연산 </summary>
