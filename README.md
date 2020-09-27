@@ -42,5 +42,6 @@
 22. [N부터 1까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2742.java)
 23. [A+B - 7](https://github.com/ahnjisu/backjoon/blob/master/java/11021.java)
 24. [A+B - 8](https://github.com/ahnjisu/backjoon/blob/master/java/11022.java)
+25. [N개의 별찍기](https://github.com/ahnjisu/backjoon/blob/master/java/2438.java)
 
 </details>
