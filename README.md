@@ -43,5 +43,5 @@
 23. [A+B - 7](https://github.com/ahnjisu/backjoon/blob/master/java/11021.java)
 24. [A+B - 8](https://github.com/ahnjisu/backjoon/blob/master/java/11022.java)
 25. [N개의 별찍기](https://github.com/ahnjisu/backjoon/blob/master/java/2438.java)
-
+26. [별찍기 오른쪽 정렬](https://github.com/ahnjisu/backjoon/blob/master/java/2439.java)
 </details>
