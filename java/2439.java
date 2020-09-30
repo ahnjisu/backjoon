@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		final double rate = 1100;
 		Scanner scanner = new Scanner(System.in);
 
 		int N = scanner.nextInt();
