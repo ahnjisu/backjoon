@@ -46,3 +46,11 @@
 26. [별찍기 오른쪽 정렬](https://github.com/ahnjisu/backjoon/blob/master/java/2439.java)
 27. [X보다 작은 수](https://github.com/ahnjisu/backjoon/blob/master/java/10871.java)
 </details>
+
+<details markdown="1">
+<summary> while문 </summary>
+
+28. [while문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10952.java)
+
+</details>
+
