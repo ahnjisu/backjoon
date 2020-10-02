@@ -51,6 +51,6 @@
 <summary> while문 </summary>
 
 28. [while문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10952.java)
-
+29. [A+B(EOF)](https://github.com/ahnjisu/backjoon/blob/master/java/10951.java)
 </details>
 
