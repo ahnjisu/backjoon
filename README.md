@@ -53,5 +53,6 @@
 28. [while문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10952.java)
 29. [A+B(EOF)](https://github.com/ahnjisu/backjoon/blob/master/java/10951.java)
 30. [더하기 사이클](https://github.com/ahnjisu/backjoon/blob/master/java/1110.java)
+31. [최소, 최대](https://github.com/ahnjisu/backjoon/blob/master/java/10818.java)
 </details>
 
