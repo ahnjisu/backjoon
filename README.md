@@ -59,6 +59,7 @@
 
 <details markdown="1">
 <summary> 1차원 배열 </summary>
+
 31. [최소, 최대](https://github.com/ahnjisu/backjoon/blob/master/java/10818.java)
 </details>
 
