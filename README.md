@@ -61,5 +61,6 @@
 <summary> 1차원 배열 </summary>
 
 31. [최소, 최대](https://github.com/ahnjisu/backjoon/blob/master/java/10818.java)
+32. [최댓값](https://github.com/ahnjisu/backjoon/blob/master/java/2562.java)
 </details>
 
