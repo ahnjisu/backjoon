@@ -62,7 +62,7 @@
 
 31. [최소, 최대](https://github.com/ahnjisu/backjoon/blob/master/java/10818.java)
 32. [최댓값](https://github.com/ahnjisu/backjoon/blob/master/java/2562.java)
-32. [*숫자의 개수](https://github.com/ahnjisu/backjoon/blob/master/java/2577.java)
-33. [*나머지](https://github.com/ahnjisu/backjoon/blob/master/java/3052.java)
+32. [*숫자의 개수*](https://github.com/ahnjisu/backjoon/blob/master/java/2577.java)
+33. [*나머지*](https://github.com/ahnjisu/backjoon/blob/master/java/3052.java)
 </details>
 
