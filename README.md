@@ -65,5 +65,7 @@
 32. [*숫자의 개수*](https://github.com/ahnjisu/backjoon/blob/master/java/2577.java)
 33. [*나머지*](https://github.com/ahnjisu/backjoon/blob/master/java/3052.java)
 34. [평균](https://github.com/ahnjisu/backjoon/blob/master/java/1546.java)
+35. [OX퀴즈](https://github.com/ahnjisu/backjoon/blob/master/java/8958.java)
+
 </details>
 
