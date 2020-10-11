@@ -66,6 +66,7 @@
 33. [*나머지*](https://github.com/ahnjisu/backjoon/blob/master/java/3052.java)
 34. [평균](https://github.com/ahnjisu/backjoon/blob/master/java/1546.java)
 35. [OX퀴즈](https://github.com/ahnjisu/backjoon/blob/master/java/8958.java)
+36. [평균은 넘겠지](https://github.com/ahnjisu/backjoon/blob/master/java/4344.java)
 
 </details>
 
