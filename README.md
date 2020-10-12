@@ -70,3 +70,9 @@
 
 </details>
 
+<details markdown="1">
+<summary> 1차원 배열 </summary>
+
+37. [정수 N개의 합](https://github.com/ahnjisu/backjoon/blob/master/java/15596.java)
+
+</details>
