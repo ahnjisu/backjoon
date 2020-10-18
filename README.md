@@ -38,7 +38,7 @@
 17. [구구단](https://github.com/ahnjisu/backjoon/blob/master/java/2739.java)
 18. [for문 A+B](https://github.com/ahnjisu/backjoon/blob/master/java/10950.java)
 19. [for문 합](https://github.com/ahnjisu/backjoon/blob/master/java/8393.java)
-20/. [1부터 N까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2741.java)
+20. [1부터 N까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2741.java)
 22. [N부터 1까지 출력](https://github.com/ahnjisu/backjoon/blob/master/java/2742.java)
 23. [A+B - 7](https://github.com/ahnjisu/backjoon/blob/master/java/11021.java)
 24. [A+B - 8](https://github.com/ahnjisu/backjoon/blob/master/java/11022.java)
