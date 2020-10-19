@@ -84,6 +84,7 @@
 <summary> 문자열 </summary>
 
 40. [아스키코드](https://github.com/ahnjisu/backjoon/blob/master/java/11654.java)
+41. [숫자의 합](https://github.com/ahnjisu/backjoon/blob/master/java/11720.java)
 
 
 </details>
